@@ -1,0 +1,354 @@
+[
+  {
+    "image": "IMG_6195.jpg",
+    "gt_fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq -"
+  },
+  {
+    "image": "IMG_6196.jpg",
+    "gt_fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq -"
+  },
+  {
+    "image": "IMG_6197.jpg",
+    "gt_fen": "rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq -"
+  },
+  {
+    "image": "IMG_6198.jpg",
+    "gt_fen": "rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -"
+  },
+  {
+    "image": "IMG_6199.jpg",
+    "gt_fen": "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq -"
+  },
+  {
+    "image": "IMG_6200.jpg",
+    "gt_fen": "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq -"
+  },
+  {
+    "image": "IMG_6201.jpg",
+    "gt_fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq -"
+  },
+  {
+    "image": "IMG_6202.jpg",
+    "gt_fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq -"
+  },
+  {
+    "image": "IMG_6203.jpg",
+    "gt_fen": "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR w KQkq -"
+  },
+  {
+    "image": "IMG_6204.jpg",
+    "gt_fen": "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N1B3/PPPQ1PPP/R3KBNR b KQkq -"
+  },
+  {
+    "image": "IMG_6205.jpg",
+    "gt_fen": "rnbqk2r/pp2ppbp/2pp1np1/8/3PP3/2N1B3/PPPQ1PPP/R3KBNR w KQkq -"
+  },
+  {
+    "image": "IMG_6206.jpg",
+    "gt_fen": "rnbqk2r/pp2ppbp/2pp1np1/8/3PP3/2N1BP2/PPPQ2PP/R3KBNR b KQkq -"
+  },
+  {
+    "image": "IMG_6207.jpg",
+    "gt_fen": "rnbqk2r/p3ppbp/2pp1np1/1p6/3PP3/2N1BP2/PPPQ2PP/R3KBNR w KQkq -"
+  },
+  {
+    "image": "IMG_6208.jpg",
+    "gt_fen": "rnbqk2r/p3ppbp/2pp1np1/1p6/3PP3/2N1BP2/PPPQN1PP/R3KB1R b KQkq -"
+  },
+  {
+    "image": "IMG_6209.jpg",
+    "gt_fen": "r1bqk2r/p2nppbp/2pp1np1/1p6/3PP3/2N1BP2/PPPQN1PP/R3KB1R w KQkq -"
+  },
+  {
+    "image": "IMG_6210.jpg",
+    "gt_fen": "r1bqk2r/p2nppbp/2pp1npB/1p6/3PP3/2N2P2/PPPQN1PP/R3KB1R b KQkq -"
+  },
+  {
+    "image": "IMG_6211.jpg",
+    "gt_fen": "r1bqk2r/p2npp1p/2pp1npb/1p6/3PP3/2N2P2/PPPQN1PP/R3KB1R w KQkq -"
+  },
+  {
+    "image": "IMG_6212.jpg",
+    "gt_fen": "r1bqk2r/p2npp1p/2pp1npQ/1p6/3PP3/2N2P2/PPP1N1PP/R3KB1R b KQkq -"
+  },
+  {
+    "image": "IMG_6213.jpg",
+    "gt_fen": "r2qk2r/pb1npp1p/2pp1npQ/1p6/3PP3/2N2P2/PPP1N1PP/R3KB1R w KQkq -"
+  },
+  {
+    "image": "IMG_6214.jpg",
+    "gt_fen": "r2qk2r/pb1npp1p/2pp1npQ/1p6/3PP3/P1N2P2/1PP1N1PP/R3KB1R b KQkq -"
+  },
+  {
+    "image": "IMG_6215.jpg",
+    "gt_fen": "r2qk2r/pb1n1p1p/2pp1npQ/1p2p3/3PP3/P1N2P2/1PP1N1PP/R3KB1R w KQkq -"
+  },
+  {
+    "image": "IMG_6216.jpg",
+    "gt_fen": "r2qk2r/pb1n1p1p/2pp1npQ/1p2p3/3PP3/P1N2P2/1PP1N1PP/2KR1B1R b kq -"
+  },
+  {
+    "image": "IMG_6217.jpg",
+    "gt_fen": "r3k2r/pb1nqp1p/2pp1npQ/1p2p3/3PP3/P1N2P2/1PP1N1PP/2KR1B1R w kq -"
+  },
+  {
+    "image": "IMG_6218.jpg",
+    "gt_fen": "r3k2r/pb1nqp1p/2pp1npQ/1p2p3/3PP3/P1N2P2/1PP1N1PP/1K1R1B1R b kq -"
+  },
+  {
+    "image": "IMG_6219.jpg",
+    "gt_fen": "r3k2r/1b1nqp1p/p1pp1npQ/1p2p3/3PP3/P1N2P2/1PP1N1PP/1K1R1B1R w kq -"
+  },
+  {
+    "image": "IMG_6220.jpg",
+    "gt_fen": "r3k2r/1b1nqp1p/p1pp1npQ/1p2p3/3PP3/P1N2P2/1PP3PP/1KNR1B1R b kq -"
+  },
+  {
+    "image": "IMG_6221.jpg",
+    "gt_fen": "2kr3r/1b1nqp1p/p1pp1npQ/1p2p3/3PP3/P1N2P2/1PP3PP/1KNR1B1R w - -"
+  },
+  {
+    "image": "IMG_6222.jpg",
+    "gt_fen": "2kr3r/1b1nqp1p/p1pp1npQ/1p2p3/3PP3/PNN2P2/1PP3PP/1K1R1B1R b - -"
+  },
+  {
+    "image": "IMG_6223.jpg",
+    "gt_fen": "2kr3r/1b1nqp1p/p1pp1npQ/1p6/3pP3/PNN2P2/1PP3PP/1K1R1B1R w - -"
+  },
+  {
+    "image": "IMG_6224.jpg",
+    "gt_fen": "2kr3r/1b1nqp1p/p1pp1npQ/1p6/3RP3/PNN2P2/1PP3PP/1K3B1R b - -"
+  },
+  {
+    "image": "IMG_6225.jpg",
+    "gt_fen": "2kr3r/1b1nqp1p/p2p1npQ/1pp5/3RP3/PNN2P2/1PP3PP/1K3B1R w - -"
+  },
+  {
+    "image": "IMG_6226.jpg",
+    "gt_fen": "2kr3r/1b1nqp1p/p2p1npQ/1pp5/4P3/PNN2P2/1PP3PP/1K1R1B1R b - -"
+  },
+  {
+    "image": "IMG_6227.jpg",
+    "gt_fen": "2kr3r/1b2qp1p/pn1p1npQ/1pp5/4P3/PNN2P2/1PP3PP/1K1R1B1R w - -"
+  },
+  {
+    "image": "IMG_6228.jpg",
+    "gt_fen": "2kr3r/1b2qp1p/pn1p1npQ/1pp5/4P3/PNN2PP1/1PP4P/1K1R1B1R b - -"
+  },
+  {
+    "image": "IMG_6229.jpg",
+    "gt_fen": "1k1r3r/1b2qp1p/pn1p1npQ/1pp5/4P3/PNN2PP1/1PP4P/1K1R1B1R w - -"
+  },
+  {
+    "image": "IMG_6230.jpg",
+    "gt_fen": "1k1r3r/1b2qp1p/pn1p1npQ/Npp5/4P3/P1N2PP1/1PP4P/1K1R1B1R b - -"
+  },
+  {
+    "image": "IMG_6231.jpg",
+    "gt_fen": "bk1r3r/4qp1p/pn1p1npQ/Npp5/4P3/P1N2PP1/1PP4P/1K1R1B1R w - -"
+  },
+  {
+    "image": "IMG_6232.jpg",
+    "gt_fen": "bk1r3r/4qp1p/pn1p1npQ/Npp5/4P3/P1N2PPB/1PP4P/1K1R3R b - -"
+  },
+  {
+    "image": "IMG_6233.jpg",
+    "gt_fen": "bk1r3r/4qp1p/pn3npQ/Nppp4/4P3/P1N2PPB/1PP4P/1K1R3R w - -"
+  },
+  {
+    "image": "IMG_6234.jpg",
+    "gt_fen": "bk1r3r/4qp1p/pn3np1/Nppp4/4PQ2/P1N2PPB/1PP4P/1K1R3R b - -"
+  },
+  {
+    "image": "IMG_6235.jpg",
+    "gt_fen": "b2r3r/k3qp1p/pn3np1/Nppp4/4PQ2/P1N2PPB/1PP4P/1K1R3R w - -"
+  },
+  {
+    "image": "IMG_6236.jpg",
+    "gt_fen": "b2r3r/k3qp1p/pn3np1/Nppp4/4PQ2/P1N2PPB/1PP4P/1K1RR3 b - -"
+  },
+  {
+    "image": "IMG_6237.jpg",
+    "gt_fen": "b2r3r/k3qp1p/pn3np1/Npp5/3pPQ2/P1N2PPB/1PP4P/1K1RR3 w - -"
+  },
+  {
+    "image": "IMG_6238.jpg",
+    "gt_fen": "b2r3r/k3qp1p/pn3np1/NppN4/3pPQ2/P4PPB/1PP4P/1K1RR3 b - -"
+  },
+  {
+    "image": "IMG_6239.jpg",
+    "gt_fen": "b2r3r/k3qp1p/p4np1/Nppn4/3pPQ2/P4PPB/1PP4P/1K1RR3 w - -"
+  },
+  {
+    "image": "IMG_6240.jpg",
+    "gt_fen": "b2r3r/k3qp1p/p4np1/NppP4/3p1Q2/P4PPB/1PP4P/1K1RR3 b - -"
+  },
+  {
+    "image": "IMG_6241.jpg",
+    "gt_fen": "b2r3r/k4p1p/p2q1np1/NppP4/3p1Q2/P4PPB/1PP4P/1K1RR3 w - -"
+  },
+  {
+    "image": "IMG_6242.jpg",
+    "gt_fen": "b2r3r/k4p1p/p2q1np1/NppP4/3R1Q2/P4PPB/1PP4P/1K2R3 b - -"
+  },
+  {
+    "image": "IMG_6243.jpg",
+    "gt_fen": "b2r3r/k4p1p/p2q1np1/Np1P4/3p1Q2/P4PPB/1PP4P/1K2R3 w - -"
+  },
+  {
+    "image": "IMG_6244.jpg",
+    "gt_fen": "b2r3r/k3Rp1p/p2q1np1/Np1P4/3p1Q2/P4PPB/1PP4P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6245.jpg",
+    "gt_fen": "b2r3r/4Rp1p/pk1q1np1/Np1P4/3p1Q2/P4PPB/1PP4P/1K6 w - -"
+  },
+  {
+    "image": "IMG_6246.jpg",
+    "gt_fen": "b2r3r/4Rp1p/pk1q1np1/Np1P4/3Q4/P4PPB/1PP4P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6247.jpg",
+    "gt_fen": "b2r3r/4Rp1p/p2q1np1/kp1P4/3Q4/P4PPB/1PP4P/1K6 w - -"
+  },
+  {
+    "image": "IMG_6248.jpg",
+    "gt_fen": "b2r3r/4Rp1p/p2q1np1/kp1P4/1P1Q4/P4PPB/2P4P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6249.jpg",
+    "gt_fen": "b2r3r/4Rp1p/p2q1np1/1p1P4/kP1Q4/P4PPB/2P4P/1K6 w - -"
+  },
+  {
+    "image": "IMG_6250.jpg",
+    "gt_fen": "b2r3r/4Rp1p/p2q1np1/1p1P4/kP6/P1Q2PPB/2P4P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6251.jpg",
+    "gt_fen": "b2r3r/4Rp1p/p4np1/1p1q4/kP6/P1Q2PPB/2P4P/1K6 w - -"
+  },
+  {
+    "image": "IMG_6252.jpg",
+    "gt_fen": "b2r3r/R4p1p/p4np1/1p1q4/kP6/P1Q2PPB/2P4P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6253.jpg",
+    "gt_fen": "3r3r/Rb3p1p/p4np1/1p1q4/kP6/P1Q2PPB/2P4P/1K6 w - -"
+  },
+  {
+    "image": "IMG_6254.jpg",
+    "gt_fen": "3r3r/1R3p1p/p4np1/1p1q4/kP6/P1Q2PPB/2P4P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6255.jpg",
+    "gt_fen": "3r3r/1R3p1p/p4np1/1p6/kPq5/P1Q2PPB/2P4P/1K6 w - -"
+  },
+  {
+    "image": "IMG_6256.jpg",
+    "gt_fen": "3r3r/1R3p1p/p4Qp1/1p6/kPq5/P4PPB/2P4P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6257.jpg",
+    "gt_fen": "3r3r/1R3p1p/p4Qp1/1p6/1Pq5/k4PPB/2P4P/1K6 w - -"
+  },
+  {
+    "image": "IMG_6258.jpg",
+    "gt_fen": "3r3r/1R3p1p/Q5p1/1p6/1Pq5/k4PPB/2P4P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6259.jpg",
+    "gt_fen": "3r3r/1R3p1p/Q5p1/1p6/1kq5/5PPB/2P4P/1K6 w - -"
+  },
+  {
+    "image": "IMG_6260.jpg",
+    "gt_fen": "3r3r/1R3p1p/Q5p1/1p6/1kq5/2P2PPB/7P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6261.jpg",
+    "gt_fen": "3r3r/1R3p1p/Q5p1/1p6/2q5/2k2PPB/7P/1K6 w - -"
+  },
+  {
+    "image": "IMG_6262.jpg",
+    "gt_fen": "3r3r/1R3p1p/6p1/1p6/2q5/2k2PPB/7P/QK6 b - -"
+  },
+  {
+    "image": "IMG_6263.jpg",
+    "gt_fen": "3r3r/1R3p1p/6p1/1p6/2q5/5PPB/3k3P/QK6 w - -"
+  },
+  {
+    "image": "IMG_6264.jpg",
+    "gt_fen": "3r3r/1R3p1p/6p1/1p6/2q5/5PPB/1Q1k3P/1K6 b - -"
+  },
+  {
+    "image": "IMG_6265.jpg",
+    "gt_fen": "3r3r/1R3p1p/6p1/1p6/2q5/5PPB/1Q5P/1K1k4 w - -"
+  },
+  {
+    "image": "IMG_6266.jpg",
+    "gt_fen": "3r3r/1R3p1p/6p1/1p6/2q5/5PP1/1Q5P/1K1k1B2 b - -"
+  },
+  {
+    "image": "IMG_6267.jpg",
+    "gt_fen": "7r/1R3p1p/6p1/1p6/2q5/5PP1/1Q1r3P/1K1k1B2 w - -"
+  },
+  {
+    "image": "IMG_6268.jpg",
+    "gt_fen": "7r/3R1p1p/6p1/1p6/2q5/5PP1/1Q1r3P/1K1k1B2 b - -"
+  },
+  {
+    "image": "IMG_6269.jpg",
+    "gt_fen": "7r/3r1p1p/6p1/1p6/2q5/5PP1/1Q5P/1K1k1B2 w - -"
+  },
+  {
+    "image": "IMG_6270.jpg",
+    "gt_fen": "7r/3r1p1p/6p1/1p6/2B5/5PP1/1Q5P/1K1k4 b - -"
+  },
+  {
+    "image": "IMG_6271.jpg",
+    "gt_fen": "7r/3r1p1p/6p1/8/2p5/5PP1/1Q5P/1K1k4 w - -"
+  },
+  {
+    "image": "IMG_6272.jpg",
+    "gt_fen": "7Q/3r1p1p/6p1/8/2p5/5PP1/7P/1K1k4 b - -"
+  },
+  {
+    "image": "IMG_6273.jpg",
+    "gt_fen": "7Q/5p1p/6p1/8/2p5/3r1PP1/7P/1K1k4 w - -"
+  },
+  {
+    "image": "IMG_6274.jpg",
+    "gt_fen": "Q7/5p1p/6p1/8/2p5/3r1PP1/7P/1K1k4 b - -"
+  },
+  {
+    "image": "IMG_6275.jpg",
+    "gt_fen": "Q7/5p1p/6p1/8/8/2pr1PP1/7P/1K1k4 w - -"
+  },
+  {
+    "image": "IMG_6276.jpg",
+    "gt_fen": "8/5p1p/6p1/8/Q7/2pr1PP1/7P/1K1k4 b - -"
+  },
+  {
+    "image": "IMG_6277.jpg",
+    "gt_fen": "8/5p1p/6p1/8/Q7/2pr1PP1/7P/1K2k3 w - -"
+  },
+  {
+    "image": "IMG_6278.jpg",
+    "gt_fen": "8/5p1p/6p1/8/Q4P2/2pr2P1/7P/1K2k3 b - -"
+  },
+  {
+    "image": "IMG_6279.jpg",
+    "gt_fen": "8/7p/6p1/5p2/Q4P2/2pr2P1/7P/1K2k3 w - -"
+  },
+  {
+    "image": "IMG_6280.jpg",
+    "gt_fen": "8/7p/6p1/5p2/Q4P2/2pr2P1/7P/2K1k3 b - -"
+  },
+  {
+    "image": "IMG_6281.jpg",
+    "gt_fen": "8/7p/6p1/5p2/Q4P2/2p3P1/3r3P/2K1k3 w - -"
+  },
+  {
+    "image": "IMG_6282.jpg",
+    "gt_fen": "8/Q6p/6p1/5p2/5P2/2p3P1/3r3P/2K1k3 b - -"
+  }
+]
