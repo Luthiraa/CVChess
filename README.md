@@ -1,7 +1,7 @@
 # CVChess: Computer Vision-Based Chess Position Recognition
 
 ## Project Overview
-CVChess is an innovative computer vision system designed to recognize chess positions from images with remarkable accuracy. The project leverages deep learning and computer vision techniques to automatically detect and classify chess pieces and their positions on a chessboard, converting visual information into standard chess notation (FEN - Forsyth–Edwards Notation).
+CVChess is an computer vision system designed to recognize chess positions from images with a high level of accuracy. The project leverages deep learning and computer vision techniques to automatically detect and classify chess pieces and their positions on a chessboard, converting visual information into standard chess notation (FEN - Forsyth–Edwards Notation).
 
 ## Key Features
 - Advanced chess piece recognition using deep learning
